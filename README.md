@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Thanh Nhan
+- 👀 I’m interested in exploring new things
+- 🌱 I’m currently learning ReactJS
+- 📫 How to reach me: nhan472569@gmail.com
