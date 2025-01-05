@@ -3,7 +3,6 @@
 
 **About me**
 
-- 💼 Frontend Engineer at [DXC Technology](https://dxc.com/us/en).
 - ✉️ Reach me here: <a :mailto="nhan472569@gmail.com" target="_blank">nhan472569@gmail.com</a>.
 
 <div align="center">
